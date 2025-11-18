@@ -8,12 +8,12 @@ import (
 	"time"
 )
 
- //var salirC bool = false
+//var salirC bool = false
 
 func main() {
 	fmt.Println("\n--------------------------------------")
 	fmt.Println("*     Client Emmanuel - OPERATIVOS       *")
-	fmt.Println("---------------------------------------\n")
+	fmt.Println("---------------------------------------")
 
 	serverAddr := "localhost:1510"
 	dirTCP, _ := net.ResolveTCPAddr("tcp4", serverAddr)

@@ -16,7 +16,7 @@ func main() {
 	for {
 		fmt.Println("\n*************************************************")
 		fmt.Println("*         Login Sistemas Operativos             *")
-		fmt.Println("*************************************************\n")
+		fmt.Println("*************************************************")
 
 		fmt.Print("Intento No ", intentos, ".Digite Password:")
 		//var passwd string
