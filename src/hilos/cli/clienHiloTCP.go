@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-var salirC bool = false
+ //var salirC bool = false
 
 func main() {
 	fmt.Println("\n--------------------------------------")
